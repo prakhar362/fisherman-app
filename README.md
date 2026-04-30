@@ -50,6 +50,7 @@ India's fishing industry faces critical challenges:
 - 🔥 Dynamic Heatmap & Zone Ranking: Automatically identifies and ranks fishing zones based on catch probability, travel distance, and fuel efficiency.
 - ⛽ Fuel & Cost Estimator: Real-time calculation of fuel requirements and trip costs (INR) for each zone to ensure profitable fishing expeditions.
 <p align="center">
+    
 ## 📸 App Screenshots
 
 | Signup| Login | Home Screen| Analytics Page |
