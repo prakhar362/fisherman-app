@@ -50,19 +50,13 @@ India's fishing industry faces critical challenges:
 - 🔥 Dynamic Heatmap & Zone Ranking: Automatically identifies and ranks fishing zones based on catch probability, travel distance, and fuel efficiency.
 - ⛽ Fuel & Cost Estimator: Real-time calculation of fuel requirements and trip costs (INR) for each zone to ensure profitable fishing expeditions.
 <p align="center">
-<img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0f8b92de-12a0-4722-b0f7-3e5f8bb52a26" />
-<img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/0bb8473e-94bd-458a-87d9-fe8ca629fab1" />
-<img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b14db27b-fca7-48c4-84a6-348dd6e675db" />
-<img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2d1337b5-9008-487c-b74a-74b4671663c2" />
-   <br />
-   <br />
-  
+## 📸 App Screenshots
 
-<img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/653144b4-ca7a-4504-9b58-f6a7bc4945c4" />
-<img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/7a4a9d77-c798-4d08-8fba-64e583ca30c6" />
-<img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/8792ff5d-0936-4b4a-97fe-3e722e0a0e32" />
-<img width="200" height="1600" alt="image" src="https://github.com/user-attachments/assets/33d00605-a848-4197-9353-bef1b7798259" />
-
+| Signup| Login | Home Screen| Analytics Page |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/0f8b92de-12a0-4722-b0f7-3e5f8bb52a26" width="250" alt="Auth & Google Login" /> | <img src="https://github.com/user-attachments/assets/0bb8473e-94bd-458a-87d9-fe8ca629fab1" width="250" alt="Home Screen" /> | <img src="https://github.com/user-attachments/assets/b14db27b-fca7-48c4-84a6-348dd6e675db" width="250" alt="Library View" /> | <img src="https://github.com/user-attachments/assets/2d1337b5-9008-487c-b74a-74b4671663c2" width="250" alt="Create Page" /> |
+| **Catch Log Page** | **Alerts Page with notifications** | **Dynamic HeatMap** | **Most Probable Fish with Guidance** |
+| <img src="https://github.com/user-attachments/assets/653144b4-ca7a-4504-9b58-f6a7bc4945c4" width="250" alt="Summary Page" /> | <img src="https://github.com/user-attachments/assets/7a4a9d77-c798-4d08-8fba-64e583ca30c6" width="250" alt="Interactive Quiz" /> | <img src="https://github.com/user-attachments/assets/8792ff5d-0936-4b4a-97fe-3e722e0a0e32" width="250" alt="User Profile" /> | <img src="https://github.com/user-attachments/assets/33d00605-a848-4197-9353-bef1b7798259" width="250" alt="Forgot Password (OTP)" /> |
 </p>
 
 
